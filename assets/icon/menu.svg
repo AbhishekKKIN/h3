@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49 36" width="49" height="36">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #53575a;stroke-linecap:round;stroke-linejoin:round;stroke-width: 1.5 } 
+	</style>
+	<path id="icon_hamburger" class="shp0" d="M48 0.99L0.99 0.99M48 17.48L0.99 17.48M48 35L0.99 35" />
+</svg>

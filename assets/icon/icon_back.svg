@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 23" width="15" height="23">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #5f5b56;stroke-width: 1.5 } 
+	</style>
+	<path id="icon_back" class="shp0" d="M12.02 21L1.01 11.5L12.02 2" />
+</svg>

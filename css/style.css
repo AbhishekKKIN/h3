@@ -1,0 +1,162 @@
+body {
+  overflow: hidden;
+}
+.c-pointer {
+  cursor: pointer;
+}
+.hero1911 {
+  background: url(../assets/background/8fa1.png) center no-repeat;
+  background-size: cover;
+}
+.menu {
+  padding: 3rem;
+  float: right;
+}
+.heading {
+  padding: 3rem 5rem;
+  width: 70%;
+}
+.heading h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 4rem;
+  background: -webkit-linear-gradient(-60deg, #01abeb, #63e9da, #ebbc81, #d19188, #d38e8d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.heading p {
+  color: #555;
+}
+.logo-bottom {
+  padding: 18rem 5rem 2rem;
+  width: 70%;
+}
+.arrow-bottom {
+  position: fixed;
+  bottom: 3rem;
+  right: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+.arrow-bottom img {
+  margin: 0.3rem;
+}
+.hero1912-close {
+  padding: 3rem;
+}
+.hero1912-bag {
+  padding: 3rem;
+  float: right;
+}
+.hero1912-menu {
+  display: flex;
+  width: 100%;
+  justify-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+.hero1912-menu-01 {
+  display: flex;
+  margin: auto;
+  padding-top: 8rem;
+}
+.hero1912-menu-01 {
+  background: -webkit-linear-gradient(-60deg, #01abeb, #63e9da, #ebbc81, #d19188);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.hero1912-menu-01 a {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2rem;
+  font-style: italic;
+  padding: 1rem 2rem;
+}
+
+.hero1912-menu-02 img {
+  margin: 2rem;
+}
+.hero1912-menu-03 {
+  margin-top: 11%;
+}
+.hero1912-menu-03 span {
+  text-transform: uppercase;
+  padding: 1rem;
+  color: #777;
+  font-size: 0.7rem;
+}
+.hero1913 {
+  background: url(../assets/background/8fa2.png) center no-repeat;
+  background-size: cover;
+}
+.hero1913-back {
+  padding: 3rem;
+}
+.hero1913-heading {
+  padding: 0 5rem 3rem;
+  width: 70%;
+}
+.hero1913-heading h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 3rem;
+  background: -webkit-linear-gradient(-60deg, #01abeb, #63e9da, #ebbc81, #d19188, #d38e8d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.hero1913-heading span {
+  color: #777;
+}
+
+.hero1913-heading p {
+  color: #555;
+  font-size: 0.8rem;
+  letter-spacing: 0.2rem;
+}
+.hero1913 .logo-bottom {
+  padding-top: 22rem;
+}
+.about-heading {
+  padding: 0 5rem 3rem;
+  width: 70%;
+  float: left;
+}
+.about-hero1913-shopnow {
+  float: left;
+}
+.about-heading h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 3rem;
+  background: -webkit-linear-gradient(-60deg, #01abeb, #63e9da, #ebbc81, #d19188, #d38e8d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.about-container {
+  width: 100%;
+  float: left;
+  padding: 0 5rem;
+  display: flex;
+}
+.about-container .left-side {
+  width: 20%;
+  line-height: 15px;
+  font-size: 12px;
+}
+.about-container .left-side .left-heading {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.7rem;
+  background: -webkit-linear-gradient(-60deg, #ebbc81, #d19188, #d38e8d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.about-container p {
+  color: #777;
+}
+.about-container .left-side .about_cbd_photo_a1 {
+  width: 100%;
+}
+.about-container .lines-holographic {
+  margin-top: -4rem;
+}
+.right-side {
+  width: 70%;
+  line-height: 26px;
+  font-size: 16px;
+}
